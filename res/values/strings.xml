@@ -9,6 +9,8 @@
     <string name="cancel_dialog">Cancel</string>
     <string name="save_dialog">Save</string>
     <string name="title_save_dialog">Save File</string>
-    <string name="message_save_dialog">Enter name File</string>  
+    <string name="message_save_dialog">Enter name File</string>
+    <string name="ViewPhoto">viewPhoto</string>
+    <string name="photo_button">PhotoButton</string>  
 
 </resources>
